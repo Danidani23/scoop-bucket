@@ -1,0 +1,22 @@
+{
+    "version": "1.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Danidani23/agents-rein/releases/download/v1.0.2/rein_1.0.2_windows_amd64.zip",
+            "bin": [
+                "rein.exe"
+            ],
+            "hash": "6e256a8076fe530180492e7efbcc29a774a9f9b3950763acc897247cf15a1303"
+        },
+        "arm64": {
+            "url": "https://github.com/Danidani23/agents-rein/releases/download/v1.0.2/rein_1.0.2_windows_arm64.zip",
+            "bin": [
+                "rein.exe"
+            ],
+            "hash": "f73d9cb3667757fbac7512bee56eddf6a1f74d21d4a95b6d2d1b37f21d3f726a"
+        }
+    },
+    "homepage": "https://github.com/Danidani23/agents-rein",
+    "license": "Apache-2.0",
+    "description": "Keeps the settings of AI coding agents in one repository per organisation and brings them to every project"
+}
