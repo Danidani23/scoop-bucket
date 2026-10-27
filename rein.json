@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Danidani23/agents-rein/releases/download/v1.2.0/rein_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/Danidani23/agents-rein/releases/download/v1.3.0/rein_1.3.0_windows_amd64.zip",
             "bin": [
                 "rein.exe"
             ],
-            "hash": "3836244321e6c7a8c1e9c684b9700a21d5a4d1d982256c989788700007791f72"
+            "hash": "c006e6bc6ca0eb77e8baec5d882061cdf9134229a8181e89c230552b843e4515"
         },
         "arm64": {
-            "url": "https://github.com/Danidani23/agents-rein/releases/download/v1.2.0/rein_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/Danidani23/agents-rein/releases/download/v1.3.0/rein_1.3.0_windows_arm64.zip",
             "bin": [
                 "rein.exe"
             ],
-            "hash": "c8f5085ff43297c59c35e1f562b63565a22e5477239dd1aa061c33b235ed331c"
+            "hash": "6230bca1731f5b6003ba0de324d8f1d105bad1d970b9506da4c76112927e849b"
         }
     },
     "homepage": "https://github.com/Danidani23/agents-rein",
